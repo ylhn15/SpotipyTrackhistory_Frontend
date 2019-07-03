@@ -13,3 +13,7 @@ to host the files on ```<port>```
 
 ### Access the hosted files
 Replace ```<path-to-tracklist>``` with the IP and the Port your Python HTTP Server is running on.
+
+### Next up
+- [ ] create script to host the files in an easier way
+- [ ] add search function
